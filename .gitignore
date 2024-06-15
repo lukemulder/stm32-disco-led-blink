@@ -1,0 +1,13 @@
+# Ignore directory used by Visual Studio Code
+.vscode/
+
+# Ignore build directories
+build/
+
+# Ignore specific config files and project files
+*.ioc
+*.mxproject
+*.ld
+*.make
+*.config.yaml
+openocd.cfg
